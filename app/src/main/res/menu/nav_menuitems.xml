@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/home_page"
+        app:showAsAction="always"
+        android:icon="@drawable/home"
+        />
+
+    <item
+        android:id="@+id/mycreation"
+        android:title="@string/creation"
+        app:showAsAction="always"
+        android:icon="@drawable/creations"
+        />
+   <!-- <item
+        android:id="@+id/contactus"
+        android:title="Contact us"
+        app:showAsAction="always"
+        android:icon="@drawable/contactus"
+       />
+-->
+   <!-- <item
+        android:id="@+id/shareapp"
+        android:title="Share app"
+        app:showAsAction="always"
+        android:icon="@drawable/shareapp"
+        />
+    <item
+        android:id="@+id/rateapp"
+        android:title="Rate app"
+        app:showAsAction="always"
+        android:icon="@drawable/rateapp"
+       />-->
+  <!--  <item
+        android:id="@+id/moreapp"
+        android:title="More app"
+        app:showAsAction="always"
+        android:icon="@drawable/moreapps"
+        />
+-->
+
+</menu>

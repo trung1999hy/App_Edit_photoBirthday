@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simple Photo Editor</string>
+    <string name="file_provider_authority" translatable="false">com.hst.animalphotomaker.fileprovider</string>
+
+    <string name="message_purchase_one">Choose color %s</string>
+    <string name="choice_type">Choose type</string>
+    <string name="need_coin">You need more coin to start.</string>
+    <string name="information">Information</string>
+    <string name="information_detail">You must 2 point to using this image!</string>
+
+    <string name="home_page">Home</string>
+    <string name="creation">Creations</string>
+</resources>

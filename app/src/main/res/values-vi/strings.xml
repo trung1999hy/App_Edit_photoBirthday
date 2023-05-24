@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Photo Editor</string>
+
+    <string name="message_purchase_one">Chọn màu %s</string>
+    <string name="choice_type">Chọn kiểu</string>
+    <string name="need_coin">Bạn cần thêm điểm để sử dụng nó!</string>
+    <string name="information">Thông tin</string>
+    <string name="information_detail">Bạn cẩn thêm 2 điểm!</string>
+    <string name="home_page">Trang chủ</string>
+    <string name="creation">Ảnh đã chỉnh sửa</string>
+</resources>
