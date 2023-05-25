@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.hst.simplephotoedior.activity.ActivityMyCreations">
+    tools:context="com.hst.simplephotoedior.activity.CreationActivity">
 
     <RelativeLayout
         android:layout_width="match_parent"

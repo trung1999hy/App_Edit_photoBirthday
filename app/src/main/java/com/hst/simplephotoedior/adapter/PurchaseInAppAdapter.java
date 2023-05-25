@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.android.billingclient.api.ProductDetails;
 import com.hst.simplephotoedior.R;
-import com.hst.simplephotoedior.Utils.Containts;
+import com.hst.simplephotoedior.util.Containts;
 
 import java.util.ArrayList;
 import java.util.List;

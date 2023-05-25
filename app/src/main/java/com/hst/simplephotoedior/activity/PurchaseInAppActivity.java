@@ -31,7 +31,7 @@ import com.android.billingclient.api.QueryPurchasesParams;
 import com.google.common.collect.ImmutableList;
 import com.hst.simplephotoedior.MyApplication;
 import com.hst.simplephotoedior.R;
-import com.hst.simplephotoedior.Utils.Containts;
+import com.hst.simplephotoedior.util.Containts;
 import com.hst.simplephotoedior.adapter.PurchaseInAppAdapter;
 
 import java.util.ArrayList;

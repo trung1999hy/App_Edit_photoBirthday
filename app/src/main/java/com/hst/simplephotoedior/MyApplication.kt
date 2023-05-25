@@ -1,7 +1,7 @@
 package com.hst.simplephotoedior
 
 import android.app.Application
-import com.hst.simplephotoedior.Utils.Preference
+import com.hst.simplephotoedior.util.Preference
 
 class MyApplication : Application() {
     companion object {

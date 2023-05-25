@@ -43,7 +43,7 @@
                 android:layout_marginLeft="5dp"
                 android:layout_marginRight="5dp" />-->
 
-            <com.hst.simplephotoedior.Utils.PaletteBar
+            <com.hst.simplephotoedior.util.PaletteBar
                 android:id="@+id/paletteBar"
                 android:layout_width="match_parent"
                 android:layout_height="100dp"

@@ -4,10 +4,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.hst.simplephotoedior.ActivitySplash"
+    tools:context="com.hst.simplephotoedior.SplashActivity"
     android:background="@color/test">
-
+    <ImageView
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:src="@drawable/icon"
+        android:layout_centerInParent="true"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:layout_above="@+id/text"/>
     <TextView
+        android:id="@+id/text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textColor="@color/white"
@@ -15,6 +23,7 @@
         android:textSize="30dp"
         android:textStyle="bold"
         android:layout_centerInParent="true"
-        android:textAlignment="center"/>
+        android:textAlignment="center"
+        android:gravity="center_horizontal" />
 
 </RelativeLayout>

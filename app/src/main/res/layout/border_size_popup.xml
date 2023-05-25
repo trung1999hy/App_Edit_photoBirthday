@@ -5,7 +5,7 @@
     android:orientation="vertical"
    >
 
-    <com.hst.simplephotoedior.Utils.PaletteBar
+    <com.hst.simplephotoedior.util.PaletteBar
         android:id="@+id/paletteBar"
         android:layout_width="match_parent"
         android:layout_height="50dp"
