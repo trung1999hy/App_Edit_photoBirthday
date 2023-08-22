@@ -615,8 +615,6 @@ public class CreatePhotoActivity extends AppCompatActivity {
 //        Glide.with(context).load(Constances.frameLists.get(Constances.FrameId1).getFrame()).into(ivframe);
         // cameraPermission();
         if (Constances.imageSet) {
-
-
             Log.e("File", "" + "file://" + getIntent().getStringExtra("images"));
             Log.e("AppCon", "" + getApplicationContext());
             // Log.e("File",""+"file://" + getIntent().getStringExtra("images"));
@@ -628,7 +626,6 @@ public class CreatePhotoActivity extends AppCompatActivity {
             }
             Constances.imageSet = false;
         } else {
-
             Glide.with(context).load(Constances.frameLists.get(Constances.FrameId1).getFrame()).into(ivframe);
         }
 
