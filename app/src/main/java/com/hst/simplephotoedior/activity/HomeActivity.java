@@ -275,7 +275,7 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
             }
 
 
-        } *//*else if (id == R.id.rateapp) {
+        } */else if (id == R.id.rateapp) {
 
             try {
                 Uri uri = Uri.parse("market://details?id=" + getPackageName());
@@ -285,7 +285,7 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
                 startActivity(new Intent(Intent.ACTION_VIEW,
                         Uri.parse(Constances.Rateapp)));
             }
-        }*/
+        }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer);
         drawer.closeDrawer(GravityCompat.START);

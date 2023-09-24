@@ -28,13 +28,13 @@
         android:title="Share app"
         app:showAsAction="always"
         android:icon="@drawable/shareapp"
-        />
+        />-->
     <item
         android:id="@+id/rateapp"
-        android:title="Rate app"
+        android:title="@string/rate"
         app:showAsAction="always"
         android:icon="@drawable/rateapp"
-       />-->
+       />
   <!--  <item
         android:id="@+id/moreapp"
         android:title="More app"
